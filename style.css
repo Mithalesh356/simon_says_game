@@ -1,0 +1,36 @@
+.containor{
+    text-align: center;
+    
+}
+.box{
+    border: 5px black solid;
+    height: 200px;
+    width: 200px;
+    border-radius: 40px;
+    margin: 10px 10px ;
+    
+}
+.line-one{
+    display: flex;
+    justify-content: center;
+}
+.line-two{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: rgba(140, 39, 39,0.7);
+}
+.green{
+    background-color: rgba(67, 177, 67,0.8);
+}
+.yellow{
+    background-color: rgba(194, 134, 36,0.5);
+}
+.purple{
+    background-color: rgba(125, 13, 125,0.6);
+}
+
+.flash{
+    background-color: white;
+}
